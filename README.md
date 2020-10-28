@@ -24,6 +24,6 @@ Starter code can be found at https://github.com/xibsolutions/assessment-public.g
 Create your own public repository and commit your work there.
 Send us your repository URL when you've completed the assessment.
 The application uses java and the spring boot framework. You are free to use either Java or Kotlin
-The application has been set up to use an in-memory h2 database. A database console is accessible @ localhost:8080/h2-console. The credentials are specified in the application.yml file.
+The application has been set up to use an in-memory h2 database. A database console is accessible @ localhost:8088/h2-console. The credentials are specified in the application.yml file.
 The project structure should be updated to make the code easier to navigate
 Adhering to standards is preferred
